@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/DoublyLinkedNode.h
+
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/DoublyLinkedNodeIterator.h
+DoublyLinkedNode.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/DoublyLinkedNode.h
+
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/List.h
+DoublyLinkedNode.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/DoublyLinkedNode.h
+DoublyLinkedNodeIterator.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/DoublyLinkedNodeIterator.h
+string
+-
+stdexcept
+-
+iostream
+-
+
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/Queue.h
+List.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/List.h
+stdexcept
+-
+
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/QueueIterator.h
+Queue.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/Queue.h
+
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/Stack.h
+List.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/List.h
+stdexcept
+-
+
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/StackIterator.h
+Stack.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/Stack.h
+
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/main.cpp
+iostream
+-
+string
+-
+List.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/List.h
+Stack.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/Stack.h
+StackIterator.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/StackIterator.h
+Queue.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/Queue.h
+QueueIterator.h
+/home/nick/CloudStation/Prior Years/Third Year Uni (2019)/Semester 1/3. Data Structures and Patterns/Problem Sets/ProblemSet6/CopyControl/CopyControl/QueueIterator.h
+

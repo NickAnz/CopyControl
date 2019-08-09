@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\nanze\cloudstation\2-school files\nick's drive\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(74): warning C4018: '<': signed/unsigned mismatch
+  c:\users\nanze\cloudstation\2-school files\nick's drive\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(69): note: while compiling class template member function 'List<std::string> &List<std::string>::operator =(const List<std::string> &)'
+  c:\users\nanze\cloudstation\2-school files\nick's drive\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\main.cpp(50): note: see reference to function template instantiation 'List<std::string> &List<std::string>::operator =(const List<std::string> &)' being compiled
+  c:\users\nanze\cloudstation\2-school files\nick's drive\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\main.cpp(33): note: see reference to class template instantiation 'List<std::string>' being compiled
+c:\users\nanze\cloudstation\2-school files\nick's drive\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\nanze\cloudstation\2-school files\nick's drive\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(61): warning C4018: '<': signed/unsigned mismatch
+  c:\users\nanze\cloudstation\2-school files\nick's drive\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(49): note: while compiling class template member function 'List<std::string>::List(const List<std::string> &)'
+  c:\users\nanze\cloudstation\2-school files\nick's drive\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\main.cpp(39): note: see reference to function template instantiation 'List<std::string>::List(const List<std::string> &)' being compiled
+  CopyControl.vcxproj -> C:\Users\nanze\CloudStation\2-School Files\Nick's Drive\3. Data Structures and Patterns\Problem Sets\ProblemSet6\CopyControl\Debug\CopyControl.exe
