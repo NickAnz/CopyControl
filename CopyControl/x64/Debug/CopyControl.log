@@ -1,10 +1,10 @@
 ﻿  main.cpp
-c:\users\nick anzellotti\cloudstation\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(74): warning C4018: '<': signed/unsigned mismatch
-  c:\users\nick anzellotti\cloudstation\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(69): note: while compiling class template member function 'List<std::string> &List<std::string>::operator =(const List<std::string> &)'
-  c:\users\nick anzellotti\cloudstation\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\main.cpp(51): note: see reference to function template instantiation 'List<std::string> &List<std::string>::operator =(const List<std::string> &)' being compiled
-  c:\users\nick anzellotti\cloudstation\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\main.cpp(34): note: see reference to class template instantiation 'List<std::string>' being compiled
-c:\users\nick anzellotti\cloudstation\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(84): warning C4018: '<': signed/unsigned mismatch
-c:\users\nick anzellotti\cloudstation\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(61): warning C4018: '<': signed/unsigned mismatch
-  c:\users\nick anzellotti\cloudstation\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\list.h(49): note: while compiling class template member function 'List<std::string>::List(const List<std::string> &)'
-  c:\users\nick anzellotti\cloudstation\3. data structures and patterns\problem sets\problemset6\copycontrol\copycontrol\main.cpp(40): note: see reference to function template instantiation 'List<std::string>::List(const List<std::string> &)' being compiled
-  CopyControl.vcxproj -> C:\Users\Nick Anzellotti\CloudStation\3. Data Structures and Patterns\Problem Sets\ProblemSet6\CopyControl\x64\Debug\CopyControl.exe
+c:\users\nanze\documents\github\copycontrol\copycontrol\list.h(74): warning C4018: '<': signed/unsigned mismatch
+  c:\users\nanze\documents\github\copycontrol\copycontrol\list.h(69): note: while compiling class template member function 'List<std::string> &List<std::string>::operator =(const List<std::string> &)'
+  c:\users\nanze\documents\github\copycontrol\copycontrol\main.cpp(48): note: see reference to function template instantiation 'List<std::string> &List<std::string>::operator =(const List<std::string> &)' being compiled
+  c:\users\nanze\documents\github\copycontrol\copycontrol\main.cpp(31): note: see reference to class template instantiation 'List<std::string>' being compiled
+c:\users\nanze\documents\github\copycontrol\copycontrol\list.h(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\nanze\documents\github\copycontrol\copycontrol\list.h(61): warning C4018: '<': signed/unsigned mismatch
+  c:\users\nanze\documents\github\copycontrol\copycontrol\list.h(49): note: while compiling class template member function 'List<std::string>::List(const List<std::string> &)'
+  c:\users\nanze\documents\github\copycontrol\copycontrol\main.cpp(37): note: see reference to function template instantiation 'List<std::string>::List(const List<std::string> &)' being compiled
+  CopyControl.vcxproj -> C:\Users\nanze\Documents\GitHub\CopyControl\x64\Debug\CopyControl.exe

@@ -4,14 +4,14 @@ template<class DataType>
 class DoublyLinkedNode
 {
 public:
-    typedef DoublyLinkedNode<DataType> Node;	// nominal equivalence
+    typedef DoublyLinkedNode<DataType> Node;	
     
 private:
-    DataType fValue;    // stored datum
+    DataType fValue;    // stored data
     Node* fNext;        // forward pointer to next element
     Node* fPrevious;    // backward pointer to previous element
     
-    // private default constructor for sentinel (not used elsewhere)
+    
     DoublyLinkedNode()
     {
         fValue = DataType();        // initialize variable with DataType default

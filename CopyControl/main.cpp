@@ -1,19 +1,17 @@
 
-// COS30008, Problem Set 5, 2019
-
 #include <iostream>
 #include <string>
 
-// enable problem 1
+
 #define CopyControl
 #include "List.h"
 
-// enable problem 2
+
 #define StackTest
 #include "Stack.h"
 #include "StackIterator.h"
 
-// enable problem 3 
+
 #define QueueTest
 #include "Queue.h"
 #include "QueueIterator.h"
@@ -64,6 +62,7 @@ void testCoopyControl()
 #endif
     
     cout << "Test of copy contol completed." << endl;
+	cout << endl;
 	}
 
 void testStack()
@@ -92,6 +91,7 @@ void testStack()
 #endif
     
     cout << "Test of stack completed." << endl;
+	cout << endl;
 }
 
 void testStackIterator()
@@ -125,6 +125,7 @@ void testStackIterator()
 #endif
     
     cout << "Test of stack iterator completed." << endl;
+	cout << endl;
 }
 
 void testQueue()
@@ -183,6 +184,8 @@ void testQueueIterator()
 #endif
     
     cout << "Test of queue iterator completed." << endl;
+	cout << endl;
+	
 }
 
 int main()
@@ -192,6 +195,7 @@ int main()
     testStackIterator();
     testQueue();
     testQueueIterator();
+	
 
 	return 0;
 }
